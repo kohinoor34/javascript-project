@@ -1,0 +1,38 @@
+h1{
+  color: darkred;
+  text-align: center;
+}
+
+#maindiv{
+    border: 1px solid rgb(90, 84, 84);
+    border-radius: 5px;
+    width: 200px;
+    margin-left: 43%;
+    background-color:#205b7a;
+    
+}
+#display{
+  margin: 10px;
+  width: 85%;
+  font-size:25px ;
+  
+}
+.button{
+  height: 40px;
+  width: 45px;
+  margin: 5px;
+  background-color: rgb(202, 210, 225);
+  border-radius: 5px;
+  border: 2px solid darkturquoise;
+  
+}
+button:hover{
+  background-color:darkslategray;
+}
+
+#buttondiv{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  
+}
